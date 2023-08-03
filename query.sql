@@ -1,2 +1,2 @@
-SELECT * FROM Users
-SELECT * FROM Server
+SELECT * FROM Users;
+SELECT * FROM Server;
