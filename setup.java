@@ -1,5 +1,7 @@
-public class Setup() {
+boolean server = true;
 
+public class Setup() {
+  
   
 
 }
