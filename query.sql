@@ -1,3 +1,3 @@
 SELECT * FROM Users;
 SELECT * FROM Server;
-CREATE UserSessions;
+CREATE TABLE UserSessions;
